@@ -23,4 +23,3 @@ This class can also usefull to create a shape using lines and arcs and then extr
 
 Please take a look at www.grognon.net (in french only)
 
-https://github.com/marnout/Fer
