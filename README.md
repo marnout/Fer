@@ -14,7 +14,7 @@ fer.py define a class Fer (knife for spindle moulder in french)
 		a is an angle ie the direction to start the arc
 	...
 
-# Usage:
+## Usage:
 	In FreeCAD 
 		Menu : Macro > Macross ...
 		Then browse to file fer.py
