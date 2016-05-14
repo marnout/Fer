@@ -4,7 +4,7 @@ Modeling a Knife for spindle moulder using FreeCAD
 This is the first step for a wood workbench for FreeCAD
 fer.py define a class Fer (knife for spindle moulder in french)
 
-# Syntax: 
+## Syntax: 
 	knife = Fer(label, height, (x0, y0), [(x, y) | (a, x, y)], ...)
 	label is a string, "F096" for example
 	height : integer, the height of knife
