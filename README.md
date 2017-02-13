@@ -24,5 +24,5 @@ fer.py define a class Fer (knife for spindle moulder in french)
 
 This class can also usefull to create a shape using lines and arcs and then extrude this face
 
-Please take a look at www.grognon.net/fer.html (in french only) or read math2fer.pdf in this folder.:w
+Please take a look at http://arad.free.fr/fer.html (in french only) or read math2fer.pdf in this folder.:w
 
