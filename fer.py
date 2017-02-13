@@ -3,7 +3,7 @@
 #
 #  fichier fer.py
 #  projet :  Wood workbench for FreeCAD
-#  Copyright 2016 Mourad <contact@grognon.net>
+#  Copyright 2016 Mourad
 #
 """ 
 	Fer is the french word for kinfe of spindle moulder
